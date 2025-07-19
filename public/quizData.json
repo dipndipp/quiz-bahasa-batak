@@ -1,0 +1,23 @@
+[
+  {
+    "question": "HORAS artinya",
+    "options": ["Salam", "Sayang", "Sakit", "Selamat"],
+    "answer": "Salam",
+    "comment": "Horas Berarti salam dalam bahasa Batak.",
+    "type": "string"
+  },
+  {
+    "question": "Berapa Jumlah sub-etnis batak yang ada di Indonesia?",
+    "options": [2, 4, 6, 8],
+    "answer": 6,
+    "comment": "Ada 6 sub-etnis Batak yang diakui secara resmi di Indonesia. diantaranya Batak Toba, Karo, Simalungun, Pakpak, Angkola, dan Mandailing.",
+    "type": "number"
+  },
+  {
+    "question": "Ibu kota sumatera utara adalah",
+    "options": ["Bandung", "Jakarta", "Surabaya", "Medan"],
+    "answer": "Medan",
+    "comment": "Medan adalah ibu kota provinsi Sumatera Utara.",
+    "type": "string"
+  }
+]
