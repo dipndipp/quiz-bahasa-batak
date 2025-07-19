@@ -1,4 +1,4 @@
 # Jangan lupa
 
-- npm insatll
+- npm install
 - npm run dev
